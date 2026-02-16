@@ -257,6 +257,20 @@ A unified error format ensures:
 * Standard logging
 * Consistent client handling
 
+Json schema for error handling
+```json
+   {
+    "statusCode":"error status",
+    "errorMessage":"error message",
+    "serviceType":[],
+    "origin":"address of where the error originated",
+    "destination":"destination address",
+    "messageid":"id of the processing message"
+   }
+
+
+```
+
 ---
 
 # 9. Design Principles of Rahat V2
