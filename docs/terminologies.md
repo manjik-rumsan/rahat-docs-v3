@@ -246,6 +246,8 @@ All Rahat messages follow a standard schema.
 
 ---
 
+Here the payment and payload that will be in the encrypted format. Only the sender and receiver will be able to read the content within this field.
+
 ## 3.2 Field Definitions
 
 | Field       | Description                   |

@@ -27,4 +27,4 @@ Rahat V2 follows a **hub-based, service-oriented architecture** where all compon
 
 For detailed information on each component, see the [System Architecture Concept Note](intro.md).
 
-![Architecture diagram](/static/img/architecture.png)
+![Architecture diagram](/img/architecture.png)

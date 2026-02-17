@@ -19,5 +19,5 @@ This queue-based approach provides scalability, fault tolerance, and decoupling 
 
 Here's the flow diagram illustrating the communication pattern between services:
 
-![Communication Flow](/static/img/queue_implementation_flow.png)
+![Communication Flow](/img/queue_implementation_flow.png)
 
